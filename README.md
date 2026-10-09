@@ -8,6 +8,7 @@ Separate mod downloads and a creation template for the PokeWilds Godot Android p
 - [Level 40 Evolutions](Level-40-Evolutions.zip?raw=true)
 - [Winter Pines](Winter-Pines.zip?raw=true)
 - [PokeWilds Godot Mod Template](PokeWilds-Godot-Mod-Template.zip?raw=true)
+- Reload page and it will download correctly. 
 
 Each mod ZIP contains its own separate folder. Extract that download, then import the `.pwmod` inside it. Do not import the outer distribution ZIP directly. Extract the template on your computer to create a mod.
 
